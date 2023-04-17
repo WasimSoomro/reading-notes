@@ -8,4 +8,4 @@ Reading Journal for Code Fellows
 ### Do or do not. There is no try. — Yoda
 
 
-https://wasimsoomro.github.io/reading-notes/
+[https://wasimsoomro.github.io/reading-notes/](https://wasimsoomro.github.io/reading-notes/)
