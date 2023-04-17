@@ -1,7 +1,7 @@
 # My Reading Journal
 Reading Journal for Code Fellows
 
-## Growth Mindset is a concept to characterize a learning framework that allows for GROWTH. It is the antithesis to a Fixed Mindset concept. It is a reminder that our intelligence is not FIXED but rather with enough persistence, grit, and tenacity...we can GROW. 
+## A growth mindset is a concept to characterize a learning framework that allows for GROWTH. It is the antithesis to a Fixed Mindset concept. It is a reminder that our intelligence is not FIXED but rather with enough persistence, grit, and tenacity...we can GROW. 
 
 ### We are what we repeatedly do. Excellence then is a habit, not a virtue. - Aristotle
 ### If I have seen further, it is by standing on the shoulders of giants. - Newton
