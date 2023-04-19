@@ -1,8 +1,6 @@
 # My Reading Journal
 Reading Journal for Code Fellows
 
-# Just making a change after cloning the repository
-
 # Introduction
 Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've always wanted to further develop my coding skils and am excited to dedicate some time to really developing those skils! I'm based in Monument, CO! 
 
@@ -14,7 +12,7 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 - [TheCoder'sComputer](https://wasimsoomro.github.io/reading-notes/TheCoder'sComputer)
 - [RevisionsandtheCloud](https://wasimsoomro.github.io/reading-notes/RevisionsandtheCloud)
 - [HTML](https://wasimsoomro.github.io/reading-notes/HTML)
-- File5
+- [CSS](https://wasimsoomro.github.io/reading-notes/CSS)
 - File6
 - File7
 - File8
