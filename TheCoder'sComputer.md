@@ -10,7 +10,6 @@
 - cd - Change directory helps you naviagte into a different directory
 - mkdir - Make directory allows you to create a new directory
 - touch - Touch allows you to create a new file
-- 
 
 # Here is an example of the above commands in action:
 - cd projects - This will bring us into the projects folder
