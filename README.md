@@ -13,7 +13,7 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 - [Markdown](https://wasimsoomro.github.io/reading-notes/Markdown)
 - [TheCoder'sComputer](https://wasimsoomro.github.io/reading-notes/TheCoder'sComputer)
 - [RevisionsandtheCloud](https://wasimsoomro.github.io/reading-notes/RevisionsandtheCloud)
-- File4
+- [HTML](https://wasimsoomro.github.io/reading-notes/HTML)
 - File5
 - File6
 - File7

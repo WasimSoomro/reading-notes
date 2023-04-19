@@ -1,4 +1,4 @@
-#Notes on HTML
+# Notes on HTML
 
 What is HTML and why do we use it?
 
@@ -15,4 +15,3 @@ What is it called when you give an element extra information?
 What is a semantic element?
 
 - A semantic element describes the meaning of a piece of code.
-Wasim
