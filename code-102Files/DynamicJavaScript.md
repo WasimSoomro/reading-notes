@@ -6,3 +6,8 @@ To declare a variable allows you to identify a value as a variable (for example,
 It is different than our traditional understanding of an equal sign (this would be == in JavaScript). The assignment operators, = assigns the value of one thing to another.
 # What is information received form the user called?
 Input value
+
+## Links
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://code-maven.com/introduction-to-javascript
+https://code-maven.com/javascript-input-with-prompt-and-confirm
