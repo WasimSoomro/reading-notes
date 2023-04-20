@@ -8,12 +8,12 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 
 ## Table of Contents
 ### Code-102 Files
-- [Markdown](https://wasimsoomro.github.io/reading-notes/Markdown)
-- [TheCoder'sComputer](https://wasimsoomro.github.io/reading-notes/TheCoder'sComputer)
-- [RevisionsandtheCloud](https://wasimsoomro.github.io/reading-notes/RevisionsandtheCloud)
-- [HTML](https://wasimsoomro.github.io/reading-notes/HTML)
-- [CSS](https://wasimsoomro.github.io/reading-notes/CSS)
-- File6
+- [Markdown](code-102Files/Markdown.md)
+- [TheCoder'sComputer](code-102Files/TheCoder'sComputer.md)
+- [RevisionsandtheCloud](code-102Files/RevisionsandtheCloud.md)
+- [HTML](code-102Files/HTML.md)
+- [CSS](code-102Files/CSS.md)
+- [DynamicJavaScript](code-102Files/DynamicJavaScript.md)
 - File7
 - File8
 ### Code-201 Files
