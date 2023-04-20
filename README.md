@@ -15,7 +15,7 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 - [CSS](code-102Files/CSS.md)
 - [DynamicJavaScript](code-102Files/DynamicJavaScript.md)
 - [ProgrammingJavaScript](code-102Files/ProgrammingJavaScript.md)
-- File8
+- [OperatorsandLoops](code-102Files/OperatorsandLoops.md)
 ### Code-201 Files
 - File 1
 - File 2
