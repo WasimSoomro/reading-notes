@@ -5,4 +5,4 @@
 # What does it mean to invoke - or call - a function?
 - It means to run the function, when it is invoked or called, it is executed.
 # What are the parenthesis () for when you define a function?
-- The parameters of the function are in the paranthesis.
+- The parameters of the function are in the parenthesis.
