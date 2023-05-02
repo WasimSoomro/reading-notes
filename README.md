@@ -18,7 +18,7 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 - [OperatorsandLoops](code-102Files/OperatorsandLoops.md)
 ## Code 201 - Foundations of Software Development
 - File 1
-- [Basics of HTML, CSS, & JS] (code-201Files/class02.md)
+- [Basics of HTML, CSS, & JS](code-201Files/class02.md)
 - File 3
 - File 4
 - File 5
