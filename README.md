@@ -19,9 +19,9 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 ## Code 201 - Foundations of Software Development
 - [HTML and JavaScript intro](Code-201Files/class01.md)
 - [Basics of HTML, CSS, & JS](code-201Files/class02.md)
-- File 3
-- File 4
-- File 5
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](code-201Files/class03.md)
+- [HTML Links, JS Functions, and Intro to CSS Layout](code-201Files/class04.md)
+- [Letter-spacing and word-spacing- or padding could work as well.]()
 - File 6
 - File 7
 - File 8

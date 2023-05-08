@@ -23,4 +23,4 @@ Fixed positioning fixes an element in place "relative to the visible portion of 
 Some functions need paraameters or values inside them to be specified when invoked. "Function parameters are the names listed in the function's definitions. Function arguments are the real values passed to the function. Parameters are initialized to the value of the arguments supplied. 
 ## Pair Programming
 ### Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
-It can produce higher quality code and actually be more effieicent as mistakes are initially caught and higher levels of code can be created. Explaning the code out loud also helps an individual learn it better.  
+It can produce higher quality code and actually be more efficient as mistakes are initially caught and higher levels of code can be created. Explaning the code out loud also helps an individual learn it better.  
