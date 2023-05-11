@@ -23,8 +23,8 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 - [HTML Links, JS Functions, and Intro to CSS Layout](code-201Files/class04.md)
 - [Letter-spacing and word-spacing- or padding could work as well.]()
 - File 6
-- File 7
-- File 8
+- [Object-Oriented Programming, HTML Tables]()
+- [CSS Layout]()
 - File 9
 - File 10
 - File 11

@@ -20,7 +20,7 @@ In constructors "this" is usedful since it is creating "more than one object fro
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#what_is_this
 ## Object Prototypes Using A Constructor
 ### Explain prototypes and inheritance via an analogy from your previous work experience.
-Prototypes allow "us to share methods across all instances of a funciton." 
+Prototypes allow "us to share methods across all instances of a function." 
 NOTE: This is a very common front end developer interview question
 
 ## Sources
