@@ -17,17 +17,17 @@ Hi my name is Wasim Soomro. I'm an Air Force Cyberspace Operations Officer. I've
 - [ProgrammingJavaScript](code-102Files/ProgrammingJavaScript.md)
 - [OperatorsandLoops](code-102Files/OperatorsandLoops.md)
 ## Code 201 - Foundations of Software Development
-- [HTML and JavaScript intro](Code-201Files/class01.md)
-- [Basics of HTML, CSS, & JS](code-201Files/class02.md)
-- [HTML Lists, Control Flow with JS, and the CSS Box Model](code-201Files/class03.md)
-- [HTML Links, JS Functions, and Intro to CSS Layout](code-201Files/class04.md)
-- [Letter-spacing and word-spacing- or padding could work as well.]()
-- File 6
-- [Object-Oriented Programming, HTML Tables]()
-- [CSS Layout]()
-- File 9
-- File 10
-- File 11
+- [HTML and JavaScript intro](Code-201Files/HTMLandJavaScriptintro.md)
+- [BasicsofHTML,CSS,&JS](code-201Files/Basics of HTML, CSS & JS.md)
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](code-201Files/HTMLLists,Control FlowwithJS,andtheCSSBoxModel.md)
+- [HTML Links, JS Functions, and Intro to CSS Layout](code-201Files/HTMLLinks,JSFunctions,andIntrotoCSSLayout.md) 
+- [Letter-spacing and word-spacing- or padding could work as well.](code-201Files/class02.md)
+- [Problem Domain, Objects, and the DOM](code-201Files/class02.md)
+- [Object-Oriented Programming, HTML Tables](code-201Files/class02.md)
+- [CSS Layout](code-201Files/class02.md)
+- [Forms and JS Events](code-201Files/class02.md)
+- [Debugging](code-201Files/class02.md)
+- [Audio, Video, Images](code-201Files/class02.md)
 - File 12
 - File 13
 - File 14
