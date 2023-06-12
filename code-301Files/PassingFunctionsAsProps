@@ -16,7 +16,7 @@ Useful "for adding items to arrays, combining arrays or objects, and spreading a
 - Add items to arrays
 - Combine arrays
 - Combine objects
-- Spread an array out into a function's arguments
+- Spread an array out into a functions arguments
 
 ### Give an example of using the spread operator to combine two arrays.
 
