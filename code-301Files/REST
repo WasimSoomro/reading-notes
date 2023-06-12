@@ -1,0 +1,30 @@
+# REST
+## What Google Learned From Its Quest to Build the Perfect Team
+### To what extent did psychological safety impact your previous work experience?
+It was critical for the group of mission directors during shift change over to pass on the best information and troubleshooting information for the next person assuming the 12 hour shift.  
+### How does this article inform your approach to working with others moving forward?
+I need to better understand the intricacies of micro-managing as opposed to being a hands-on leader who cares about the details and specifics required to make a succesful project. I understand asking the employee to get a task done and not mandating how the task is done. But I would like to deeper understand this topic.
+## How I explained REST to my brother
+### Who is Roy Fielding?
+A computer scientist and originator of representational state transfer (REST). He also helped write HTTP. 
+### Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?
+It is not a universal protocol.
+### What is the HTTP protocol that Fielding and his friends created?
+"It is a general purpose protocol for applying verbs to nouns."
+### What does a GET do?
+Retrieves information from a web server. 
+### What does a POST do?
+Sends data to a server.
+### What does PUT do?
+Updates existing resources on the server.
+### What does PATCH do?
+Similar to PUT but only a partial update.
+## API Keys
+### Geocoding API
+Received from LocationIQ
+### Weather Bit API
+Received from weatherbit.io
+### Yelp API Docs
+Received from Yelp, (create app).
+### The Movie DB API Docs
+Received from themoviedb.org
