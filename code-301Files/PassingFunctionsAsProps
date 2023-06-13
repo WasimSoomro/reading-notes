@@ -11,7 +11,6 @@ Each list item needs a unique key.
 ## The Spread Operator
 ### What is the spread operator?
 Useful "for adding items to arrays, combining arrays or objects, and spreading an array out into a function’s arguments." 
-
 ### List 4 things that the spread operator can do.
 - Add items to arrays
 - Combine arrays
@@ -57,6 +56,5 @@ Increases by a set amount.
 ### How can you pass a method from a parent component into a child component?
 Define the method in the parent function then pass it as a prop. 
 ### How does the child component invoke a method that was passed to it from a parent component?
-Invoke the method afte receiving it as a prop.
-
+Invoke the method after receiving it as a prop.
 
