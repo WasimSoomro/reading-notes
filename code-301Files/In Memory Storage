@@ -1,0 +1,25 @@
+# In Memory Storage
+## Understanding the JavaScript Call Stack
+### What is a ‘call’?
+Invoking a function in JavaScript
+### How many ‘calls’ can happen at once?
+One call at a time
+### What does LIFO mean?
+Last in first out, last function pushed into the call stack is the first one out
+### Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+Main program starts, function A calls B, B calls C, C executes is popped out, B executes is popped out, A executes is popped out, main program finishes. 
+### What causes a Stack Overflow?
+# JavaScript error messages
+### What is a ‘reference error’?
+Trying to use a variable or function before it has been declared or defined.
+### What is a ‘syntax error’?
+An error with the language's syntax.
+### What is a ‘range error’?
+Value not within an acceptable range or set of values allowed for the function.
+### What is a ‘type error’?
+ When a value is of an incompatible data type.
+### What is a breakpoint?
+Where the execution in the code pauses.
+### What does the word ‘debugger’ do in your code?
+Tool or software that allows for stepping through the code.
+

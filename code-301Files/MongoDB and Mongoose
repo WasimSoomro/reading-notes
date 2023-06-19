@@ -1,0 +1,39 @@
+# MongoDB and Mongoose
+## nosql vs sql
+## 5 differences:
+- SQL databases are relational databases, NoSQL databases are non-relational
+- SQL databases are table based, NoSQL databases are document-based, key-value pairs
+- SQL databases have predefined schema, no SQL databases have dynamic schema
+- SQL databases are vertically scalable, NoSQL databases are horizontally scalable 
+- NoSQL databases are better for hierarchical data storage
+
+# What kind of data is a good fit for an SQL database?
+Give a real world example.
+Structured data with predefined schema. Website with info on products.
+# What kind of data is a good fit a NoSQL database?
+Give a real world example.
+Unstructured data. Social networking problems. 
+
+# Which type of database is best for hierarchical data storage? 
+NoSQL
+# Which type of database is best for scalability?
+NoSQL
+
+# What does SQL stand for?
+Structured Query Language
+# What is a relational database?
+Organizes data into tables with relationships
+# What type of structure does a relational database work with?
+Tabular
+# What is a ‘schema’?
+Structure that defines organization 
+# What is a NoSQL database?
+Database with flexible data model
+# How does it work?
+Various data models like key-value pairs
+# What is inside of a MongoDB database?
+Collections (like like tables in a SQL database)
+# Which is more flexible - SQL or MongoDB? and why.
+MongDB, not as rigid
+# What is the disadvantage of a NoSQL database?
+Not as consistent as SQL
