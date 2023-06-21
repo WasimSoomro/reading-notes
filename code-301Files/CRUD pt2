@@ -1,0 +1,23 @@
+# CRUD pt 2
+## CRUD BASICS
+### Which HTTP method would you use to update a record through an API?
+PUT Method
+### Which REST methods require an ID parameter?
+GET, PUT, DELETE
+
+## Speed Coding: Building a CRUD API 
+### What’s the relationship between REST and CRUD?
+C create in CRUD = POST in REST
+R read in CRUD = GET in REST
+U Update in CRUD = PUT or PATCH in REST
+D Delete in CRUD = DELETE in REST
+
+### If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
+
+- Identify and design resources
+- Choose and set up API framework
+- Define API endpoints and routes
+- Implement CRUD operations
+- Test and Document API
+
+//Help from ChatGPT
