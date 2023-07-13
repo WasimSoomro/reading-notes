@@ -1,0 +1,15 @@
+# JavaClass1
+## Java Basics
+### What does “strong typed” mean?
+Strong typed required the declaration of every variable with a data type.
+### What are the primitive data types?
+Byte, short, int, long, float, double, boolean, and char
+## XKCD: Compiling
+### Explain to a non-technical friend the difference in how compilation works in Java and JavaScript.
+Java is a compiling language whereas JavaScript is an interpreted scripted language. The compilation process is an extra step where the computer transaltes wrriten code into bytecode. 
+### Does code complining mean that it works correctly?
+## Reading Java Documentation
+### How many keywords does Java have?
+Java has 51 keywords.
+### How do you print words to the console in Java?
+System.out.println()

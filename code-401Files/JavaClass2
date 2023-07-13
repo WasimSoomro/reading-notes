@@ -1,0 +1,17 @@
+## Java Imports
+### Use an analogy to explain Built-In packages. Give examples.
+A built-in package can be like cooking a meal and the built-in packages can be pre-chopped and prepped onions/garlic/ginger. Then when you import the package you receive that functionality. 
+### Explain the steps for creating a new package in IntelliJ.
+Source folder, new, package, name the package, now you can create classes, interfaces, etc, inside the package.
+## Different types of loops in Java
+### Which loop types use a loop counter?
+For Loop and do-while loop
+### Explain the difference between While and Do-While loops.
+In the do while loop, the condition is checked after the first iteration of the loop
+## Java Arrays
+### Describe 3 built-in methods for Arrays.
+- public static int binarySearch(Object[] a, Object key)
+- public static boolean equals(long[] a, long[] a2)
+- public static boolean equals(long[] a, long[] a2)
+### How is the size of an array determined in Java?
+Size is determined when the array is created 
